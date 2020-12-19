@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "deployappsa6532918": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
